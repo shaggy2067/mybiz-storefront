@@ -1,0 +1,12 @@
+# GitHub Pages Configuration for My Biz Storefront
+
+# Site settings
+title: "My Biz — Live Selling Storefront"
+description: "Shop live drops and handcrafted products from your favourite creators."
+url: ""
+
+# Tell GitHub Pages to serve the raw HTML without Jekyll processing
+# This prevents any interference with the single-file app
+exclude:
+  - README.md
+  - "*.md"
