@@ -4,7 +4,7 @@ A beautiful, deployable buyer-facing storefront for live sellers on TikTok, Inst
 
 ## 🌐 Live Site
 
-**[View Storefront →](https://yourusername.github.io/mybiz-storefront)**
+**[View Storefront →](https://shaggy2067.github.io/mybiz-storefront/)**
 
 ---
 
